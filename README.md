@@ -2,8 +2,9 @@
 C/C++ Algorithm for Point inside a Polygon and distance of a point to a Polygon
 Most common and efficient algorithm for this is Ray-casting Algorithm.
 
-##Point inside a polygon
-Efficient algorithm implementation in just 7 lines of code by W. Randolph Franklin: [https://wrfranklin.org/Research/Short_Notes/pnpoly.html](url) 
+#Point inside a polygon
+
+Algorithm to figure out if a point lies inside a polygon or outside. Efficient algorithm implementation in just 7 lines of code orignally posted byby W. Randolph Franklin: [https://wrfranklin.org/Research/Short_Notes/pnpoly.html](url) 
 
 For visualisation you can easily create polygones using the following tool and directly copy and use it in your code: [https://www.keene.edu/campus/maps/tool/](url)
 
