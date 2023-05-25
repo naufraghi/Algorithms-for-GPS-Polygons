@@ -21,4 +21,5 @@ In order to get distance values in meters we have to convert GPS coordinates to 
 
 <h2> WGS84 to UTM conversion </h2> 
 This algorithm was first posted by https://alephnull.net/software/gis/UTM_WGS84_C_plus_plus.shtml
+To spread out GPS data in WGS84, the Universal Transverse Mercator (UTM) projection can be used. This 2D Cartesian coordinate system divides the Earth into 60 zones, each 6 degrees of longitude wide, with Germany located in UTM Zone 32 (6° East to 12° East longitude). UTM preserves local distances, providing more intuitive distances expressed in meters.
 
