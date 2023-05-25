@@ -1,5 +1,5 @@
 # GPS-Distance-to-and-Point-inside-a-Polygon
-C Algorithm for Point inside a Polygon and distance of a point to a Polygon
+C/C++ Algorithm for Point inside a Polygon and distance of a point to a Polygon
 Most common and efficient algorithm for this is Ray-casting Algorithm.
 
 <h2> Point inside a polygon </h2>
