@@ -19,4 +19,6 @@ At the end of the algorithm, if the counter is even, then the point lies outside
 In order to get distance values in meters we have to convert GPS coordinates to Cartesian Coordinates. This is implemented in the .c file function (latLongToCartesian)
 
 
+<h2> WGS84 to UTM conversion </h2> 
+This algorithm was first posted by https://alephnull.net/software/gis/UTM_WGS84_C_plus_plus.shtml
 
