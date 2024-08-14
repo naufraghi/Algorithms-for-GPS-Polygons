@@ -4,9 +4,9 @@ Most common and efficient algorithm for this is Ray-casting Algorithm.
 
 <h2> Point inside a polygon </h2>
 
-Algorithm to figure out if a point lies inside a polygon or outside. Efficient algorithm implementation in just 7 lines of code orignally posted byby W. Randolph Franklin: [https://wrfranklin.org/Research/Short_Notes/pnpoly.html](url) 
+Algorithm to figure out if a point lies inside a polygon or outside. Efficient algorithm implementation in just 7 lines of code orignally posted by W. Randolph Franklin: [PNPOLY - Point Inclusion in Polygon Test](https://wrfranklin.org/Research/Short_Notes/pnpoly.html) 
 
-For visualisation you can easily create polygones using the following tool and directly copy and use it in your code: [https://www.keene.edu/campus/maps/tool/](url)
+For visualisation you can easily create polygones using the following tool and directly copy and use it in your code: https://www.keene.edu/campus/maps/tool/
 
 <h2> Distance of a Point to a Polygon </h2>
 
